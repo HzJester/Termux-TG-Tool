@@ -12,7 +12,7 @@ $pkg install python3
 
 $pip3 install telethon
 
-$git clone (your forked git link).git
+$git clone https://github.com/HzJester/Termux-TG-Tool.git
 
 $cd Termux-TG-Tool
 
